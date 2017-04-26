@@ -1,0 +1,23 @@
+{
+  "WHICH_VERS": "Use which version of %s? %s",
+  "WHICH_DEPS": "Which dependency(ies) would you like to upgrade?",
+  "RETRIEVING_VERS": "  Retrieving available versions of %s...",
+  "RETRIEVING_TREE": "  Retrieving %s's dependency tree. This will take a moment...",
+  "BUILDING_TMP_FILES": "  Creating temporary application bundle...",
+  "INSTALLING": "  Installing dependencies...",
+  "PRUNING": "  Pruning dependencies...",
+  "SHRINKING": "  Shrink-wrapping upgraded module(s)...",
+  "SKIPPING": "\n  %s will be skipped",
+  "SKIPPING_REASON": "\n  v%s is the only available version",
+  "DONE": "\n  PRECISION UPDATE COMPLETE:",
+  "RECAP": "  ✓ updated shrinkwrap written to %s",
+  "BACKUP": "  ✓ existing shrinkwrap renamed to %s",
+  "DIFF": "  ✓ generated diff for review",
+  "DIFF_PROMPT": "\n  View a diff by running the command below:",
+  "DIFF_CMD": "  $ diff -u %s %s | $EDITOR",
+  "CURRENT": "(currently %s)",
+  "NO_VERSIONS": "\n  No other versions currently available.",
+  "NO_VERSIONS_EXIT": "  Exiting with no change to npm-shrinkwrap.json",
+  "NO_SHRINKWRAP": "Scalpel requires valid npm-shrinkwrap.json and package.json files.",
+  "NO_SHRINKWRAP_DETAILS": "You must be in a valid shrink-wrapped project to scalp a shrinkwrap."
+}
