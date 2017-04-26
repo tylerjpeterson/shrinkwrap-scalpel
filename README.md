@@ -35,7 +35,7 @@ No patches, minor releases, or major releases will be absorbed from other depend
 Install globally from npm. 
 
 ```sh
-$ npm i -g @kettle/shrinkwrap-scalpel
+$ npm i -g shrinkwrap-scalpel
 ```
 
 
